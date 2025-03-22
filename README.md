@@ -33,9 +33,9 @@ python improved_fraud_detection.py
 
 ## Model Performance
 
-- ROC-AUC Score: 0.7466
+- ROC-AUC Score: 0.8913
 - Precision for fraud detection: 0.12
-- Recall for fraud detection: 0.50
+- Recall for fraud detection: 0.86
 - F1-score for fraud detection: 0.20
 
 ## Data Distribution
